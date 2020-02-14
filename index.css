@@ -1,0 +1,32 @@
+div {
+    display: block;
+    max-width: 1024px;
+    margin: 32px auto;
+}
+
+body {
+    font-size: 20px;
+    line-height: 20px;
+    
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxWM_bE6_ushQ75OgmaWhx4M62nmpdPWnVClr71Fkxgx006eWs);
+    background-size: 100%;
+}
+li {
+    margin-bottom: 16px;
+
+}
+h1 {
+color: blue;
+box-align : center;
+}
+.photo
+{
+    border-radius: 100px;
+    
+
+}
+.img-block
+ {
+     display: block;
+  margin: 0 auto;
+}
